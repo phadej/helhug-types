@@ -1,0 +1,6130 @@
+[
+  {
+    "id": 0,
+    "url": "http://en.wikipedia.org/wiki/Rust_(programming_language)",
+    "title": "Rust",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "structural"
+    ],
+    "influencedBy": [
+      1,
+      15,
+      88,
+      98,
+      106,
+      117,
+      121,
+      136,
+      137,
+      288,
+      395
+    ],
+    "influenced": [
+      53,
+      296,
+      310
+    ],
+    "appearedIn": 2012
+  },
+  {
+    "id": 1,
+    "url": "http://en.wikipedia.org/wiki/Swift_(programming_language)",
+    "title": "Swift",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      0,
+      2,
+      3,
+      52,
+      54,
+      98,
+      108,
+      121,
+      123
+    ],
+    "influenced": [
+      0
+    ],
+    "appearedIn": 2014
+  },
+  {
+    "id": 2,
+    "url": "http://en.wikipedia.org/wiki/D_(programming_language)",
+    "title": "D",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred"
+    ],
+    "influencedBy": [
+      3,
+      19,
+      32,
+      50,
+      88,
+      121,
+      123
+    ],
+    "influenced": [
+      1,
+      266,
+      377,
+      394
+    ],
+    "appearedIn": 2001
+  },
+  {
+    "id": 3,
+    "url": "http://en.wikipedia.org/wiki/Ruby_(programming_language)",
+    "title": "Ruby",
+    "typingDiscipline": [
+      "duck",
+      "dynamic"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      14,
+      18,
+      19,
+      54,
+      84,
+      88,
+      123,
+      149
+    ],
+    "influenced": [
+      2,
+      53,
+      83,
+      159,
+      182,
+      204,
+      206,
+      210,
+      276,
+      277,
+      278,
+      335,
+      336
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 4,
+    "url": "http://en.wikipedia.org/wiki/Smalltalk",
+    "title": "Smalltalk",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      5,
+      6,
+      9,
+      21
+    ],
+    "influenced": [
+      3,
+      50,
+      52,
+      62,
+      108,
+      120,
+      123,
+      149,
+      157,
+      159,
+      160,
+      162,
+      176,
+      180,
+      204,
+      206,
+      207,
+      209,
+      210,
+      213,
+      216,
+      220
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 5,
+    "url": "http://en.wikipedia.org/wiki/Sketchpad",
+    "title": "Sketchpad",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 6,
+    "url": "http://en.wikipedia.org/wiki/Logo_(programming_language)",
+    "title": "Logo",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      7
+    ],
+    "influenced": [
+      4,
+      163,
+      386,
+      387,
+      389,
+      391
+    ],
+    "appearedIn": 1967
+  },
+  {
+    "id": 7,
+    "url": "http://en.wikipedia.org/wiki/Lisp_programming_language",
+    "title": "Lisp",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      8
+    ],
+    "influenced": [
+      3,
+      4,
+      6,
+      10,
+      14,
+      16,
+      54,
+      63,
+      74,
+      83,
+      84,
+      89,
+      98,
+      123,
+      149,
+      160,
+      164,
+      174,
+      186,
+      204,
+      206,
+      292,
+      335,
+      354,
+      381,
+      382,
+      383,
+      384,
+      385
+    ],
+    "appearedIn": 1958
+  },
+  {
+    "id": 8,
+    "url": "http://en.wikipedia.org/wiki/Information_Processing_Language",
+    "title": "Information Processing Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      9
+    ],
+    "appearedIn": 1956
+  },
+  {
+    "id": 9,
+    "url": "http://en.wikipedia.org/wiki/Lisp_(programming_language)",
+    "title": "Lisp",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      8
+    ],
+    "influenced": [
+      3,
+      4,
+      6,
+      10,
+      14,
+      16,
+      54,
+      63,
+      74,
+      83,
+      84,
+      89,
+      98,
+      123,
+      149,
+      160,
+      164,
+      174,
+      186,
+      204,
+      206,
+      292,
+      335,
+      354,
+      381,
+      382,
+      383,
+      384,
+      385
+    ],
+    "appearedIn": 1958
+  },
+  {
+    "id": 10,
+    "url": "http://en.wikipedia.org/wiki/Tcl",
+    "title": "Tcl",
+    "typingDiscipline": [
+      "dynamic typing",
+      "everything can be treated as a string"
+    ],
+    "influencedBy": [
+      9,
+      11
+    ],
+    "influenced": [
+      256,
+      380
+    ],
+    "appearedIn": 1988
+  },
+  {
+    "id": 11,
+    "url": "http://en.wikipedia.org/wiki/AWK",
+    "title": "AWK",
+    "typingDiscipline": [
+      "none; can handle strings",
+      "integers and floating point numbers; regular expressions"
+    ],
+    "influencedBy": [
+      12,
+      13,
+      32
+    ],
+    "influenced": [
+      10,
+      14,
+      84,
+      325,
+      326
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 12,
+    "url": "http://en.wikipedia.org/wiki/Bourne_shell",
+    "title": "Bourne shell",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 13,
+    "url": "http://en.wikipedia.org/wiki/SNOBOL",
+    "title": "SNOBOL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      14,
+      146
+    ],
+    "appearedIn": 1962
+  },
+  {
+    "id": 14,
+    "url": "http://en.wikipedia.org/wiki/Lua_(programming_language)",
+    "title": "Lua",
+    "typingDiscipline": [
+      "dynamic",
+      "strong",
+      "duck"
+    ],
+    "influencedBy": [
+      13,
+      15,
+      54,
+      88,
+      126
+    ],
+    "influenced": [
+      83,
+      160,
+      206,
+      377,
+      378,
+      379
+    ],
+    "appearedIn": 1993
+  },
+  {
+    "id": 15,
+    "url": "http://en.wikipedia.org/wiki/Scheme_(programming_language)",
+    "title": "Scheme",
+    "typingDiscipline": [
+      "\n\n\nstrong\ndynamic\n\n\n"
+    ],
+    "influencedBy": [
+      7,
+      16,
+      17
+    ],
+    "influenced": [
+      3,
+      14,
+      56,
+      63,
+      65,
+      83,
+      98,
+      108,
+      149,
+      150,
+      186,
+      277,
+      375,
+      376
+    ],
+    "appearedIn": 1975
+  },
+  {
+    "id": 16,
+    "url": "http://en.wikipedia.org/wiki/MDL_(programming_language)",
+    "title": "MDL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 17,
+    "url": "http://en.wikipedia.org/wiki/ALGOL",
+    "title": "ALGOL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      18,
+      21,
+      32,
+      85,
+      353
+    ],
+    "appearedIn": 1958
+  },
+  {
+    "id": 18,
+    "url": "http://en.wikipedia.org/wiki/Ada_(programming_language)",
+    "title": "Ada",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "nominative"
+    ],
+    "influencedBy": [
+      4,
+      19,
+      50,
+      85,
+      88,
+      231
+    ],
+    "influenced": [
+      0,
+      3,
+      19,
+      50,
+      87,
+      88,
+      236,
+      237,
+      238
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 19,
+    "url": "http://en.wikipedia.org/wiki/Eiffel_(programming_language)",
+    "title": "Eiffel",
+    "typingDiscipline": [
+      "static"
+    ],
+    "influencedBy": [
+      18,
+      20,
+      21
+    ],
+    "influenced": [
+      2,
+      3,
+      18,
+      50,
+      55,
+      108,
+      121,
+      176,
+      375
+    ],
+    "appearedIn": 1986
+  },
+  {
+    "id": 20,
+    "url": "http://en.wikipedia.org/wiki/Z_notation",
+    "title": "Z notation",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 21,
+    "url": "http://en.wikipedia.org/wiki/Simula",
+    "title": "Simula",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22
+    ],
+    "influenced": [
+      374
+    ],
+    "appearedIn": 1967
+  },
+  {
+    "id": 22,
+    "url": "http://en.wikipedia.org/wiki/ALGOL_60",
+    "title": "ALGOL 60",
+    "typingDiscipline": [],
+    "influencedBy": [
+      23
+    ],
+    "influenced": [
+      18,
+      21,
+      32,
+      85,
+      373
+    ],
+    "appearedIn": 1960
+  },
+  {
+    "id": 23,
+    "url": "http://en.wikipedia.org/wiki/ALGOL_58",
+    "title": "ALGOL 58",
+    "typingDiscipline": [],
+    "influencedBy": [
+      24,
+      27
+    ],
+    "influenced": [
+      372
+    ],
+    "appearedIn": 1958
+  },
+  {
+    "id": 24,
+    "url": "http://en.wikipedia.org/wiki/Plankalk%C3%BCl",
+    "title": "Plankalkül",
+    "typingDiscipline": [],
+    "influencedBy": [
+      25
+    ],
+    "influenced": [
+      23,
+      26
+    ],
+    "appearedIn": 1948
+  },
+  {
+    "id": 25,
+    "url": "http://en.wikipedia.org/wiki/Begriffsschrift",
+    "title": "Begriffsschrift",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 26,
+    "url": "http://en.wikipedia.org/wiki/Heinz_Rutishauser",
+    "title": "Heinz Rutishauser",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 27,
+    "url": "http://en.wikipedia.org/wiki/FORTRAN",
+    "title": "Fortran",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      28
+    ],
+    "influenced": [
+      23,
+      31,
+      32,
+      33,
+      35,
+      40,
+      132
+    ],
+    "appearedIn": 1957
+  },
+  {
+    "id": 28,
+    "url": "http://en.wikipedia.org/wiki/Speedcoding",
+    "title": "Speedcoding",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      29,
+      30
+    ],
+    "influenced": [
+      23,
+      31,
+      32,
+      33,
+      34,
+      35,
+      40,
+      132
+    ],
+    "appearedIn": 1953
+  },
+  {
+    "id": 29,
+    "url": "http://en.wikipedia.org/wiki/Machine_code",
+    "title": "Machine code",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 30,
+    "url": "http://en.wikipedia.org/wiki/Assembly_language",
+    "title": "Assembly language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 31,
+    "url": "http://en.wikipedia.org/wiki/Ratfor",
+    "title": "Ratfor",
+    "typingDiscipline": [],
+    "influencedBy": [
+      32,
+      34
+    ],
+    "influenced": [],
+    "appearedIn": 1976
+  },
+  {
+    "id": 32,
+    "url": "http://en.wikipedia.org/wiki/C_(programming_language)",
+    "title": "C",
+    "typingDiscipline": [
+      "static",
+      "weak",
+      "manifest",
+      "nominal"
+    ],
+    "influencedBy": [
+      27,
+      30,
+      33,
+      231,
+      351,
+      352,
+      353
+    ],
+    "influenced": [
+      0,
+      2,
+      11,
+      50,
+      52,
+      84,
+      87,
+      88,
+      121,
+      123,
+      133,
+      136,
+      186,
+      207,
+      271,
+      272,
+      326,
+      362,
+      365,
+      368,
+      369,
+      370,
+      371
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 33,
+    "url": "http://en.wikipedia.org/wiki/PL/I",
+    "title": "PL/I",
+    "typingDiscipline": [],
+    "influencedBy": [
+      17,
+      34,
+      346
+    ],
+    "influenced": [
+      221,
+      261,
+      351,
+      355
+    ],
+    "appearedIn": 1964
+  },
+  {
+    "id": 34,
+    "url": "http://en.wikipedia.org/wiki/Fortran",
+    "title": "Fortran",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      28
+    ],
+    "influenced": [
+      23,
+      31,
+      32,
+      33,
+      35,
+      40,
+      132
+    ],
+    "appearedIn": 1957
+  },
+  {
+    "id": 35,
+    "url": "http://en.wikipedia.org/wiki/MUMPS",
+    "title": "MUMPS",
+    "typingDiscipline": [
+      "typeless"
+    ],
+    "influencedBy": [
+      36
+    ],
+    "influenced": [
+      344,
+      345
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 36,
+    "url": "http://en.wikipedia.org/wiki/JOSS",
+    "title": "JOSS",
+    "typingDiscipline": [],
+    "influencedBy": [
+      23
+    ],
+    "influenced": [
+      35,
+      37,
+      38,
+      39,
+      40
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 37,
+    "url": "http://en.wikipedia.org/wiki/FOCAL_(programming_language)",
+    "title": "FOCAL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 38,
+    "url": "http://en.wikipedia.org/wiki/CAL_(Joss_family)",
+    "title": "CAL (Joss family)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 39,
+    "url": "http://en.wikipedia.org/wiki/TELCOMP",
+    "title": "TELCOMP",
+    "typingDiscipline": [],
+    "influencedBy": [
+      36
+    ],
+    "influenced": [
+      35
+    ],
+    "appearedIn": 1965
+  },
+  {
+    "id": 40,
+    "url": "http://en.wikipedia.org/wiki/BASIC",
+    "title": "BASIC",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22,
+      34,
+      36
+    ],
+    "influenced": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      343
+    ],
+    "appearedIn": 1964
+  },
+  {
+    "id": 41,
+    "url": "http://en.wikipedia.org/wiki/AutoHotkey",
+    "title": "AutoHotkey",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 42,
+    "url": "http://en.wikipedia.org/wiki/AutoIt",
+    "title": "AutoIt",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 43,
+    "url": "http://en.wikipedia.org/wiki/GRASS_(programming_language)",
+    "title": "GRASS",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 44,
+    "url": "http://en.wikipedia.org/wiki/Realbasic",
+    "title": "Xojo",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 45,
+    "url": "http://en.wikipedia.org/wiki/Visual_Basic_.NET",
+    "title": "Visual Basic .NET",
+    "typingDiscipline": [
+      "static",
+      "both strong and weak",
+      "[1] both safe and unsafe",
+      "[1] nominative"
+    ],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 2001
+  },
+  {
+    "id": 46,
+    "url": "http://en.wikipedia.org/wiki/Visual_Basic",
+    "title": "Visual Basic",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      40
+    ],
+    "influenced": [
+      45,
+      47,
+      48,
+      49
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 47,
+    "url": "http://en.wikipedia.org/wiki/Basic4ppc",
+    "title": "Basic4ppc",
+    "typingDiscipline": [
+      "static",
+      "weak"
+    ],
+    "influencedBy": [
+      46
+    ],
+    "influenced": [],
+    "appearedIn": 2005
+  },
+  {
+    "id": 48,
+    "url": "http://en.wikipedia.org/wiki/Xojo",
+    "title": "Xojo",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 49,
+    "url": "http://en.wikipedia.org/wiki/Gambas",
+    "title": "Gambas",
+    "typingDiscipline": [],
+    "influencedBy": [
+      46,
+      50
+    ],
+    "influenced": [],
+    "appearedIn": 1999
+  },
+  {
+    "id": 50,
+    "url": "http://en.wikipedia.org/wiki/Java_(programming_language)",
+    "title": "Java",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "nominative",
+      "manifest"
+    ],
+    "influencedBy": [
+      4,
+      18,
+      19,
+      51,
+      52,
+      88,
+      121,
+      124,
+      125,
+      286,
+      339
+    ],
+    "influenced": [
+      2,
+      18,
+      87,
+      108,
+      121,
+      123,
+      186,
+      188,
+      207,
+      208,
+      210,
+      211,
+      266,
+      277,
+      340,
+      342
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 51,
+    "url": "http://en.wikipedia.org/wiki/UCSD_Pascal",
+    "title": "UCSD Pascal",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 52,
+    "url": "http://en.wikipedia.org/wiki/Objective-C",
+    "title": "Objective-C",
+    "typingDiscipline": [
+      "static",
+      "dynamic",
+      "weak"
+    ],
+    "influencedBy": [
+      4,
+      32
+    ],
+    "influenced": [
+      50,
+      53,
+      197,
+      335,
+      338
+    ],
+    "appearedIn": 1983
+  },
+  {
+    "id": 53,
+    "url": "http://en.wikipedia.org/wiki/Swift_(Apple_programming_language)",
+    "title": "Swift",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      0,
+      2,
+      3,
+      52,
+      54,
+      98,
+      108,
+      121,
+      123
+    ],
+    "influenced": [
+      0
+    ],
+    "appearedIn": 2014
+  },
+  {
+    "id": 54,
+    "url": "http://en.wikipedia.org/wiki/CLU_(programming_language)",
+    "title": "CLU",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      7,
+      17,
+      21
+    ],
+    "influenced": [
+      14,
+      18,
+      53,
+      55,
+      334,
+      337
+    ],
+    "appearedIn": 1974
+  },
+  {
+    "id": 55,
+    "url": "http://en.wikipedia.org/wiki/Sather",
+    "title": "Sather",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      15,
+      19,
+      54,
+      56
+    ],
+    "influenced": [
+      0,
+      333
+    ],
+    "appearedIn": 1990
+  },
+  {
+    "id": 56,
+    "url": "http://en.wikipedia.org/wiki/Common_Lisp",
+    "title": "Common Lisp",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      9,
+      15,
+      57,
+      58,
+      59
+    ],
+    "influenced": [
+      60,
+      61,
+      63,
+      82,
+      83,
+      149,
+      150,
+      230,
+      277,
+      332
+    ],
+    "appearedIn": 1984
+  },
+  {
+    "id": 57,
+    "url": "http://en.wikipedia.org/wiki/Interlisp",
+    "title": "Interlisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 58,
+    "url": "http://en.wikipedia.org/wiki/Maclisp",
+    "title": "Maclisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 59,
+    "url": "http://en.wikipedia.org/wiki/Lisp_Machine_Lisp",
+    "title": "Lisp Machine Lisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 60,
+    "url": "http://en.wikipedia.org/wiki/SubL",
+    "title": "SubL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 61,
+    "url": "http://en.wikipedia.org/wiki/Cadence_SKILL",
+    "title": "Cadence SKILL",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      56,
+      62
+    ],
+    "influenced": [],
+    "appearedIn": 1990
+  },
+  {
+    "id": 62,
+    "url": "http://en.wikipedia.org/wiki/Common_Lisp_Object_System",
+    "title": "Common Lisp Object System",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 63,
+    "url": "http://en.wikipedia.org/wiki/R_(programming_language)",
+    "title": "R",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      64,
+      65
+    ],
+    "influenced": [],
+    "appearedIn": 1993
+  },
+  {
+    "id": 64,
+    "url": "http://en.wikipedia.org/wiki/XLispStat",
+    "title": "XLispStat",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 65,
+    "url": "http://en.wikipedia.org/wiki/S_(programming_language)",
+    "title": "S",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      34,
+      66
+    ],
+    "influenced": [],
+    "appearedIn": 1976
+  },
+  {
+    "id": 66,
+    "url": "http://en.wikipedia.org/wiki/APL_(programming_language)",
+    "title": "APL",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      67
+    ],
+    "influenced": [
+      65,
+      68,
+      69,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "appearedIn": 1964
+  },
+  {
+    "id": 67,
+    "url": "http://en.wikipedia.org/wiki/Mathematical_notation",
+    "title": "Mathematical notation",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 68,
+    "url": "http://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)",
+    "title": "Q (programming language from Kx Systems)",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      15,
+      69,
+      70,
+      81
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 69,
+    "url": "http://en.wikipedia.org/wiki/K_(programming_language)",
+    "title": "K",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      15,
+      70,
+      81
+    ],
+    "influenced": [],
+    "appearedIn": 1993
+  },
+  {
+    "id": 70,
+    "url": "http://en.wikipedia.org/wiki/APL_programming_language",
+    "title": "APL",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      67
+    ],
+    "influenced": [
+      65,
+      68,
+      69,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "appearedIn": 1964
+  },
+  {
+    "id": 71,
+    "url": "http://en.wikipedia.org/wiki/Polymorphic_Programming_Language",
+    "title": "Polymorphic Programming Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 72,
+    "url": "http://en.wikipedia.org/wiki/Nial",
+    "title": "Nial",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      7,
+      70
+    ],
+    "influenced": [],
+    "appearedIn": 1981
+  },
+  {
+    "id": 73,
+    "url": "http://en.wikipedia.org/wiki/MATLAB",
+    "title": "MATLAB",
+    "typingDiscipline": [
+      "dynamic",
+      "weak"
+    ],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 74,
+    "url": "http://en.wikipedia.org/wiki/Mathematica",
+    "title": "Mathematica",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 75,
+    "url": "http://en.wikipedia.org/wiki/J_(programming_language)",
+    "title": "J",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      66,
+      76,
+      77
+    ],
+    "influenced": [
+      79,
+      80
+    ],
+    "appearedIn": 1990
+  },
+  {
+    "id": 76,
+    "url": "http://en.wikipedia.org/wiki/FL_(programming_language)",
+    "title": "FL",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      77
+    ],
+    "influenced": [
+      75
+    ],
+    "appearedIn": 1989
+  },
+  {
+    "id": 77,
+    "url": "http://en.wikipedia.org/wiki/FP_(programming_language)",
+    "title": "FP",
+    "typingDiscipline": [],
+    "influencedBy": [
+      66
+    ],
+    "influenced": [
+      75,
+      76,
+      78
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 78,
+    "url": "http://en.wikipedia.org/wiki/FPr_(programming_language)",
+    "title": "FPr",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 79,
+    "url": "http://en.wikipedia.org/wiki/SuperCollider",
+    "title": "SuperCollider",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 80,
+    "url": "http://en.wikipedia.org/wiki/NumPy",
+    "title": "NumPy",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 81,
+    "url": "http://en.wikipedia.org/wiki/A%2B_(programming_language)",
+    "title": "A+",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      66
+    ],
+    "influenced": [
+      69
+    ],
+    "appearedIn": 1988
+  },
+  {
+    "id": 82,
+    "url": "http://en.wikipedia.org/wiki/Moose_(Perl)",
+    "title": "Moose (Perl)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 83,
+    "url": "http://en.wikipedia.org/wiki/Julia_(programming_language)",
+    "title": "Julia",
+    "typingDiscipline": [
+      "dynamic with type inference and optional type annotations"
+    ],
+    "influencedBy": [
+      3,
+      9,
+      14,
+      15,
+      32,
+      34,
+      63,
+      73,
+      84,
+      123,
+      331
+    ],
+    "influenced": [],
+    "appearedIn": 2012
+  },
+  {
+    "id": 84,
+    "url": "http://en.wikipedia.org/wiki/Perl",
+    "title": "Perl",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      9,
+      32,
+      85,
+      88,
+      320,
+      321,
+      328,
+      329
+    ],
+    "influenced": [
+      3,
+      83,
+      123,
+      188,
+      206,
+      207,
+      209,
+      256,
+      272,
+      330
+    ],
+    "appearedIn": 1987
+  },
+  {
+    "id": 85,
+    "url": "http://en.wikipedia.org/wiki/Pascal_(programming_language)",
+    "title": "Pascal",
+    "typingDiscipline": [
+      "\n\n\nstatic\nstrong\nsafe\n\n\n"
+    ],
+    "influencedBy": [
+      86
+    ],
+    "influenced": [
+      18,
+      50,
+      87,
+      124,
+      125,
+      126,
+      129,
+      143,
+      265,
+      318,
+      319
+    ],
+    "appearedIn": 1970
+  },
+  {
+    "id": 86,
+    "url": "http://en.wikipedia.org/wiki/ALGOL_W",
+    "title": "ALGOL W",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22
+    ],
+    "influenced": [
+      85
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 87,
+    "url": "http://en.wikipedia.org/wiki/Seed7",
+    "title": "Seed7",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "nominative",
+      "manifest"
+    ],
+    "influencedBy": [
+      18,
+      32,
+      50,
+      85,
+      88,
+      126,
+      231
+    ],
+    "influenced": [],
+    "appearedIn": 2005
+  },
+  {
+    "id": 88,
+    "url": "http://en.wikipedia.org/wiki/C%2B%2B",
+    "title": "C++",
+    "typingDiscipline": [
+      "static",
+      "nominative"
+    ],
+    "influencedBy": [
+      18,
+      21,
+      32,
+      54,
+      89,
+      231
+    ],
+    "influenced": [
+      2,
+      14,
+      18,
+      50,
+      84,
+      87,
+      121,
+      206,
+      207,
+      270,
+      271,
+      272
+    ],
+    "appearedIn": 1983
+  },
+  {
+    "id": 89,
+    "url": "http://en.wikipedia.org/wiki/ML_(programming_language)",
+    "title": "ML",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "safe"
+    ],
+    "influencedBy": [
+      90
+    ],
+    "influenced": [
+      88,
+      98,
+      105,
+      108,
+      117,
+      122,
+      185,
+      277,
+      287,
+      288
+    ],
+    "appearedIn": 1973
+  },
+  {
+    "id": 90,
+    "url": "http://en.wikipedia.org/wiki/ISWIM",
+    "title": "ISWIM",
+    "typingDiscipline": [],
+    "influencedBy": [
+      9,
+      22
+    ],
+    "influenced": [
+      91,
+      97,
+      98,
+      100,
+      102,
+      107
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 91,
+    "url": "http://en.wikipedia.org/wiki/Lucid_(programming_language)",
+    "title": "Lucid",
+    "typingDiscipline": [
+      "typeless"
+    ],
+    "influencedBy": [
+      90
+    ],
+    "influenced": [
+      92,
+      93,
+      95
+    ],
+    "appearedIn": 1976
+  },
+  {
+    "id": 92,
+    "url": "http://en.wikipedia.org/wiki/Lustre_(programming_language)",
+    "title": "Lustre",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 93,
+    "url": "http://en.wikipedia.org/wiki/PureData",
+    "title": "Pure Data",
+    "typingDiscipline": [],
+    "influencedBy": [
+      94
+    ],
+    "influenced": [],
+    "appearedIn": 1996
+  },
+  {
+    "id": 94,
+    "url": "http://en.wikipedia.org/wiki/Patcher",
+    "title": "Max (software)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 95,
+    "url": "http://en.wikipedia.org/wiki/SISAL",
+    "title": "SISAL",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      34,
+      85
+    ],
+    "influenced": [
+      96
+    ],
+    "appearedIn": 1983
+  },
+  {
+    "id": 96,
+    "url": "http://en.wikipedia.org/wiki/SAC_programming_language",
+    "title": "SAC programming language",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      70,
+      95
+    ],
+    "influenced": [],
+    "appearedIn": 1994
+  },
+  {
+    "id": 97,
+    "url": "http://en.wikipedia.org/wiki/Clean_(programming_language)",
+    "title": "Clean",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "dynamic"
+    ],
+    "influencedBy": [
+      98,
+      105
+    ],
+    "influenced": [],
+    "appearedIn": 1987
+  },
+  {
+    "id": 98,
+    "url": "http://en.wikipedia.org/wiki/Haskell_(programming_language)",
+    "title": "Haskell",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      9,
+      15,
+      77,
+      89,
+      90,
+      95,
+      97,
+      99,
+      101,
+      103,
+      104,
+      105,
+      106,
+      289,
+      290
+    ],
+    "influenced": [
+      45,
+      50,
+      53,
+      97,
+      108,
+      121,
+      122,
+      123,
+      190,
+      191,
+      209,
+      251,
+      277,
+      279,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      305,
+      307,
+      308,
+      310,
+      311,
+      312,
+      313,
+      315,
+      316,
+      317
+    ],
+    "appearedIn": 1990
+  },
+  {
+    "id": 99,
+    "url": "http://en.wikipedia.org/wiki/SASL_(programming_language)",
+    "title": "SASL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      90
+    ],
+    "influenced": [
+      98,
+      100,
+      103
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 100,
+    "url": "http://en.wikipedia.org/wiki/Miranda_programming_language",
+    "title": "Miranda",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      89,
+      101,
+      102,
+      103
+    ],
+    "influenced": [
+      97,
+      98
+    ],
+    "appearedIn": 1985
+  },
+  {
+    "id": 101,
+    "url": "http://en.wikipedia.org/wiki/Hope_(programming_language)",
+    "title": "Hope",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 102,
+    "url": "http://en.wikipedia.org/wiki/SASL_programming_language",
+    "title": "SASL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      90
+    ],
+    "influenced": [
+      98,
+      100,
+      103
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 103,
+    "url": "http://en.wikipedia.org/wiki/Kent_Recursive_Calculator",
+    "title": "Kent Recursive Calculator",
+    "typingDiscipline": [],
+    "influencedBy": [
+      99
+    ],
+    "influenced": [
+      100
+    ],
+    "appearedIn": 1981
+  },
+  {
+    "id": 104,
+    "url": "http://en.wikipedia.org/wiki/Orwell_(programming_language)",
+    "title": "Orwell",
+    "typingDiscipline": [],
+    "influencedBy": [
+      105
+    ],
+    "influenced": [
+      98
+    ],
+    "appearedIn": 1984
+  },
+  {
+    "id": 105,
+    "url": "http://en.wikipedia.org/wiki/Miranda_(programming_language)",
+    "title": "Miranda",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      89,
+      101,
+      102,
+      103
+    ],
+    "influenced": [
+      97,
+      98
+    ],
+    "appearedIn": 1985
+  },
+  {
+    "id": 106,
+    "url": "http://en.wikipedia.org/wiki/Standard_ML",
+    "title": "Standard ML",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred"
+    ],
+    "influencedBy": [
+      101,
+      107
+    ],
+    "influenced": [
+      0,
+      201
+    ]
+  },
+  {
+    "id": 107,
+    "url": "http://en.wikipedia.org/wiki/ML_programming_language",
+    "title": "ML",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "safe"
+    ],
+    "influencedBy": [
+      90
+    ],
+    "influenced": [
+      88,
+      98,
+      105,
+      108,
+      117,
+      122,
+      185,
+      277,
+      287,
+      288
+    ],
+    "appearedIn": 1973
+  },
+  {
+    "id": 108,
+    "url": "http://en.wikipedia.org/wiki/Scala_(programming_language)",
+    "title": "Scala",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "structural"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      15,
+      19,
+      50,
+      98,
+      106,
+      109,
+      117,
+      201,
+      282
+    ],
+    "influenced": [
+      1,
+      157,
+      211,
+      284,
+      285
+    ],
+    "appearedIn": 2003
+  },
+  {
+    "id": 109,
+    "url": "http://en.wikipedia.org/wiki/Oz_(programming_language)",
+    "title": "Oz",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      9,
+      110,
+      117
+    ],
+    "influenced": [
+      108,
+      281
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 110,
+    "url": "http://en.wikipedia.org/wiki/Prolog",
+    "title": "Prolog",
+    "typingDiscipline": [],
+    "influencedBy": [
+      111
+    ],
+    "influenced": [
+      109,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      279,
+      280
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 111,
+    "url": "http://en.wikipedia.org/wiki/PLANNER",
+    "title": "Planner",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 1969
+  },
+  {
+    "id": 112,
+    "url": "http://en.wikipedia.org/wiki/Constraint_Handling_Rules",
+    "title": "Constraint Handling Rules",
+    "typingDiscipline": [],
+    "influencedBy": [
+      110
+    ],
+    "influenced": [],
+    "appearedIn": 1991
+  },
+  {
+    "id": 113,
+    "url": "http://en.wikipedia.org/wiki/Datalog",
+    "title": "Datalog",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 114,
+    "url": "http://en.wikipedia.org/wiki/KL1",
+    "title": "KL1",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 115,
+    "url": "http://en.wikipedia.org/wiki/KL0",
+    "title": "KL0",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 116,
+    "url": "http://en.wikipedia.org/wiki/Strand_(programming_language)",
+    "title": "Strand",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 117,
+    "url": "http://en.wikipedia.org/wiki/Erlang_(programming_language)",
+    "title": "Erlang",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      4,
+      110,
+      118
+    ],
+    "influenced": [
+      0,
+      108,
+      119,
+      120,
+      122,
+      185,
+      276,
+      277,
+      278
+    ],
+    "appearedIn": 1986
+  },
+  {
+    "id": 118,
+    "url": "http://en.wikipedia.org/wiki/PLEX_(programming_language)",
+    "title": "PLEX",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 1970
+  },
+  {
+    "id": 119,
+    "url": "http://en.wikipedia.org/wiki/Akka_(toolkit)",
+    "title": "Akka (toolkit)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 120,
+    "url": "http://en.wikipedia.org/wiki/Dart_(programming_language)",
+    "title": "Dart",
+    "typingDiscipline": [
+      "optional"
+    ],
+    "influencedBy": [
+      4,
+      117,
+      121,
+      186,
+      275
+    ],
+    "influenced": []
+  },
+  {
+    "id": 121,
+    "url": "http://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+    "title": "C Sharp",
+    "typingDiscipline": [
+      "static",
+      "dynamic",
+      "[1] strong",
+      "safe",
+      "nominative",
+      "partially inferred"
+    ],
+    "influencedBy": [
+      19,
+      50,
+      88,
+      89,
+      98,
+      122,
+      124,
+      146,
+      247,
+      265
+    ],
+    "influenced": [
+      2,
+      50,
+      53,
+      120,
+      122,
+      211,
+      266,
+      267,
+      268
+    ],
+    "appearedIn": 2000
+  },
+  {
+    "id": 122,
+    "url": "http://en.wikipedia.org/wiki/F_Sharp_(programming_language)",
+    "title": "F Sharp",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      89,
+      98,
+      108,
+      117,
+      121,
+      123,
+      201
+    ],
+    "influenced": [
+      121,
+      190,
+      246
+    ],
+    "appearedIn": 2005
+  },
+  {
+    "id": 123,
+    "url": "http://en.wikipedia.org/wiki/Python_(programming_language)",
+    "title": "Python",
+    "typingDiscipline": [
+      "duck",
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      9,
+      32,
+      50,
+      84,
+      88,
+      98,
+      124,
+      146,
+      149,
+      231,
+      241
+    ],
+    "influenced": [
+      2,
+      3,
+      53,
+      83,
+      122,
+      133,
+      186,
+      206,
+      210,
+      244,
+      245
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 124,
+    "url": "http://en.wikipedia.org/wiki/Modula-3",
+    "title": "Modula-3",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "safe or if unsafe explicitly safe isolated"
+    ],
+    "influencedBy": [
+      17,
+      85,
+      125,
+      126,
+      144
+    ],
+    "influenced": [
+      50,
+      121,
+      123,
+      145
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 125,
+    "url": "http://en.wikipedia.org/wiki/Oberon_(programming_language)",
+    "title": "Oberon",
+    "typingDiscipline": [
+      "strong",
+      "hybrid (static and dynamic)"
+    ],
+    "influencedBy": [
+      126
+    ],
+    "influenced": [
+      130,
+      133,
+      142
+    ],
+    "appearedIn": 1986
+  },
+  {
+    "id": 126,
+    "url": "http://en.wikipedia.org/wiki/Modula-2",
+    "title": "Modula-2",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      85,
+      127,
+      128,
+      129
+    ],
+    "influenced": [
+      14,
+      18,
+      87,
+      124,
+      125,
+      130,
+      131
+    ],
+    "appearedIn": 1978
+  },
+  {
+    "id": 127,
+    "url": "http://en.wikipedia.org/wiki/Algol-W",
+    "title": "ALGOL W",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22
+    ],
+    "influenced": [
+      85
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 128,
+    "url": "http://en.wikipedia.org/wiki/Mesa_programming_language",
+    "title": "Mesa",
+    "typingDiscipline": [
+      "strongly typed"
+    ],
+    "influencedBy": [
+      17
+    ],
+    "influenced": [
+      50,
+      126
+    ],
+    "appearedIn": 1970
+  },
+  {
+    "id": 129,
+    "url": "http://en.wikipedia.org/wiki/Modula",
+    "title": "Modula",
+    "typingDiscipline": [],
+    "influencedBy": [
+      85
+    ],
+    "influenced": [],
+    "appearedIn": 1975
+  },
+  {
+    "id": 130,
+    "url": "http://en.wikipedia.org/wiki/Zonnon",
+    "title": "Zonnon",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 131,
+    "url": "http://en.wikipedia.org/wiki/Fortran_(programming_language)",
+    "title": "Fortran",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      28
+    ],
+    "influenced": [
+      23,
+      31,
+      32,
+      33,
+      35,
+      40,
+      132
+    ],
+    "appearedIn": 1957
+  },
+  {
+    "id": 132,
+    "url": "http://en.wikipedia.org/wiki/PACT_I",
+    "title": "PACT (compiler)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 133,
+    "url": "http://en.wikipedia.org/wiki/Go_(programming_language)",
+    "title": "Go",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred",
+      "structural"
+    ],
+    "influencedBy": [
+      32,
+      85,
+      123,
+      125,
+      129,
+      134,
+      136,
+      139
+    ],
+    "influenced": [],
+    "appearedIn": 2009
+  },
+  {
+    "id": 134,
+    "url": "http://en.wikipedia.org/wiki/Newsqueak",
+    "title": "Newsqueak",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      135
+    ],
+    "influenced": [
+      0,
+      133,
+      136,
+      137
+    ]
+  },
+  {
+    "id": 135,
+    "url": "http://en.wikipedia.org/wiki/Communicating_sequential_processes",
+    "title": "Communicating sequential processes",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 136,
+    "url": "http://en.wikipedia.org/wiki/Limbo_(programming_language)",
+    "title": "Limbo",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      85,
+      134,
+      135,
+      137
+    ],
+    "influenced": [
+      0,
+      133,
+      138
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 137,
+    "url": "http://en.wikipedia.org/wiki/Alef_(programming_language)",
+    "title": "Alef",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      32,
+      134
+    ],
+    "influenced": [
+      0,
+      133,
+      136
+    ],
+    "appearedIn": 1992
+  },
+  {
+    "id": 138,
+    "url": "http://en.wikipedia.org/wiki/Stackless_Python",
+    "title": "Stackless Python",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 139,
+    "url": "http://en.wikipedia.org/wiki/Occam_(programming_language)",
+    "title": "occam",
+    "typingDiscipline": [],
+    "influencedBy": [
+      140
+    ],
+    "influenced": [
+      141
+    ],
+    "appearedIn": 1983
+  },
+  {
+    "id": 140,
+    "url": "http://en.wikipedia.org/wiki/Communicating_Sequential_Processes",
+    "title": "Communicating sequential processes",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 141,
+    "url": "http://en.wikipedia.org/wiki/Ease_(programming_language)",
+    "title": "Ease",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 142,
+    "url": "http://en.wikipedia.org/wiki/Oberon-2",
+    "title": "Oberon-2",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      85,
+      125,
+      126
+    ],
+    "influenced": [
+      143
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 143,
+    "url": "http://en.wikipedia.org/wiki/Component_Pascal",
+    "title": "Component Pascal",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      142
+    ],
+    "influenced": [],
+    "appearedIn": 1997
+  },
+  {
+    "id": 144,
+    "url": "http://en.wikipedia.org/wiki/Modula-2%2B",
+    "title": "Modula-2+",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      17,
+      85,
+      126
+    ],
+    "influenced": [
+      124
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 145,
+    "url": "http://en.wikipedia.org/wiki/Caml",
+    "title": "Caml",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred"
+    ],
+    "influencedBy": [
+      89
+    ],
+    "influenced": [
+      122
+    ],
+    "appearedIn": 1985
+  },
+  {
+    "id": 146,
+    "url": "http://en.wikipedia.org/wiki/Icon_(programming_language)",
+    "title": "Icon",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      13,
+      17
+    ],
+    "influenced": [
+      123,
+      147
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 147,
+    "url": "http://en.wikipedia.org/wiki/Unicon_programming_language",
+    "title": "Unicon",
+    "typingDiscipline": [],
+    "influencedBy": [
+      148
+    ],
+    "influenced": []
+  },
+  {
+    "id": 148,
+    "url": "http://en.wikipedia.org/wiki/Icon_programming_language",
+    "title": "Icon",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      13,
+      17
+    ],
+    "influenced": [
+      123,
+      147
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 149,
+    "url": "http://en.wikipedia.org/wiki/Dylan_(programming_language)",
+    "title": "Dylan",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      17,
+      62,
+      150
+    ],
+    "influenced": [
+      3,
+      123,
+      157,
+      225
+    ],
+    "appearedIn": 1992
+  },
+  {
+    "id": 150,
+    "url": "http://en.wikipedia.org/wiki/EuLisp",
+    "title": "EuLisp",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      56,
+      62,
+      149,
+      151,
+      226,
+      227,
+      228,
+      229
+    ],
+    "influenced": [
+      149,
+      230
+    ],
+    "appearedIn": 1990
+  },
+  {
+    "id": 151,
+    "url": "http://en.wikipedia.org/wiki/Oaklisp",
+    "title": "Oaklisp",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      4,
+      15,
+      152
+    ],
+    "influenced": [
+      50,
+      150,
+      156
+    ],
+    "appearedIn": 1986
+  },
+  {
+    "id": 152,
+    "url": "http://en.wikipedia.org/wiki/T_programming_language",
+    "title": "T",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      15
+    ],
+    "influenced": [
+      150,
+      153
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 153,
+    "url": "http://en.wikipedia.org/wiki/Joule_(programming_language)",
+    "title": "Joule",
+    "typingDiscipline": [
+      "untyped"
+    ],
+    "influencedBy": [
+      154,
+      155
+    ],
+    "influenced": [],
+    "appearedIn": 1996
+  },
+  {
+    "id": 154,
+    "url": "http://en.wikipedia.org/wiki/Actor_model",
+    "title": "Actor model",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 155,
+    "url": "http://en.wikipedia.org/wiki/Logic_Programming#Concurrent_logic_programming",
+    "title": "Logic programming",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 156,
+    "url": "http://en.wikipedia.org/wiki/Dylan_programming_language",
+    "title": "Dylan",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      17,
+      62,
+      150
+    ],
+    "influenced": [
+      3,
+      123,
+      157,
+      225
+    ],
+    "appearedIn": 1992
+  },
+  {
+    "id": 157,
+    "url": "http://en.wikipedia.org/wiki/Lasso_(programming_language)",
+    "title": "Lasso",
+    "typingDiscipline": [
+      "dynamic with constraints (strict-hybrid)",
+      "nominative",
+      "duck (hybrid)"
+    ],
+    "influencedBy": [
+      108,
+      149,
+      158
+    ],
+    "influenced": [],
+    "appearedIn": 1995
+  },
+  {
+    "id": 158,
+    "url": "http://en.wikipedia.org/wiki/SmallTalk",
+    "title": "Smalltalk",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      5,
+      6,
+      9,
+      21
+    ],
+    "influenced": [
+      3,
+      50,
+      52,
+      62,
+      108,
+      120,
+      123,
+      149,
+      157,
+      159,
+      160,
+      162,
+      176,
+      180,
+      204,
+      206,
+      207,
+      209,
+      210,
+      213,
+      216,
+      220
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 159,
+    "url": "http://en.wikipedia.org/wiki/Fancy_(programming_language)",
+    "title": "Fancy",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      3,
+      117,
+      160,
+      205
+    ],
+    "influenced": [],
+    "appearedIn": 2010
+  },
+  {
+    "id": 160,
+    "url": "http://en.wikipedia.org/wiki/Io_(programming_language)",
+    "title": "Io",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      14,
+      123,
+      161,
+      162,
+      180
+    ],
+    "influenced": [
+      159,
+      182,
+      204
+    ],
+    "appearedIn": 2002
+  },
+  {
+    "id": 161,
+    "url": "http://en.wikipedia.org/wiki/Actor_model_middle_history#Actor_programming_languages",
+    "title": "Actor model middle history",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 162,
+    "url": "http://en.wikipedia.org/wiki/Self_(programming_language)",
+    "title": "Self",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      4
+    ],
+    "influenced": [
+      14,
+      160,
+      163,
+      171,
+      176,
+      177,
+      178,
+      179,
+      180,
+      186
+    ],
+    "appearedIn": 1987
+  },
+  {
+    "id": 163,
+    "url": "http://en.wikipedia.org/wiki/REBOL",
+    "title": "Rebol",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      6,
+      9,
+      162,
+      164
+    ],
+    "influenced": [
+      173,
+      175
+    ],
+    "appearedIn": 1997
+  },
+  {
+    "id": 164,
+    "url": "http://en.wikipedia.org/wiki/Forth_(programming_language)",
+    "title": "Forth",
+    "typingDiscipline": [
+      "typeless"
+    ],
+    "influencedBy": [
+      9,
+      66,
+      165
+    ],
+    "influenced": [
+      163,
+      166,
+      168,
+      171
+    ],
+    "appearedIn": 1970
+  },
+  {
+    "id": 165,
+    "url": "http://en.wikipedia.org/wiki/Burroughs_large_systems",
+    "title": "Burroughs large systems",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 166,
+    "url": "http://en.wikipedia.org/wiki/RPL_(programming_language)",
+    "title": "RPL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      9,
+      164,
+      167
+    ],
+    "influenced": [],
+    "appearedIn": 1984
+  },
+  {
+    "id": 167,
+    "url": "http://en.wikipedia.org/wiki/Infix_notation",
+    "title": "Infix notation",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 168,
+    "url": "http://en.wikipedia.org/wiki/PostScript",
+    "title": "PostScript",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      7,
+      169
+    ],
+    "influenced": [
+      170
+    ],
+    "appearedIn": 1982
+  },
+  {
+    "id": 169,
+    "url": "http://en.wikipedia.org/wiki/Interpress",
+    "title": "Interpress",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 170,
+    "url": "http://en.wikipedia.org/wiki/Portable_Document_File",
+    "title": "Portable Document Format",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 171,
+    "url": "http://en.wikipedia.org/wiki/Factor_(programming_language)",
+    "title": "Factor",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      9,
+      162,
+      164,
+      172
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 172,
+    "url": "http://en.wikipedia.org/wiki/Joy_(programming_language)",
+    "title": "Joy",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      77
+    ],
+    "influenced": [
+      171
+    ],
+    "appearedIn": 2001
+  },
+  {
+    "id": 173,
+    "url": "http://en.wikipedia.org/wiki/Red_(programming_language)",
+    "title": "Red",
+    "typingDiscipline": [],
+    "influencedBy": [
+      14,
+      108,
+      174
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 174,
+    "url": "http://en.wikipedia.org/wiki/Rebol",
+    "title": "Rebol",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      6,
+      9,
+      162,
+      164
+    ],
+    "influenced": [
+      173,
+      175
+    ],
+    "appearedIn": 1997
+  },
+  {
+    "id": 175,
+    "url": "http://en.wikipedia.org/wiki/JSON",
+    "title": "JSON",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 176,
+    "url": "http://en.wikipedia.org/wiki/Lisaac",
+    "title": "Lisaac",
+    "typingDiscipline": [
+      "static typing"
+    ],
+    "influencedBy": [
+      4,
+      19,
+      162
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 177,
+    "url": "http://en.wikipedia.org/wiki/Squeak",
+    "title": "Squeak",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 178,
+    "url": "http://en.wikipedia.org/wiki/Agora_(programming_language)",
+    "title": "Agora",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 179,
+    "url": "http://en.wikipedia.org/wiki/Cel_(programming_language)",
+    "title": "Cel",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      4,
+      52,
+      123,
+      162,
+      164,
+      180
+    ],
+    "influenced": [],
+    "appearedIn": 1998
+  },
+  {
+    "id": 180,
+    "url": "http://en.wikipedia.org/wiki/NewtonScript",
+    "title": "NewtonScript",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      156,
+      162
+    ],
+    "influenced": [
+      181
+    ],
+    "appearedIn": 1993
+  },
+  {
+    "id": 181,
+    "url": "http://en.wikipedia.org/wiki/Io_programming_language",
+    "title": "Io",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      14,
+      123,
+      161,
+      162,
+      180
+    ],
+    "influenced": [
+      159,
+      182,
+      204
+    ],
+    "appearedIn": 2002
+  },
+  {
+    "id": 182,
+    "url": "http://en.wikipedia.org/wiki/Potion_(programming_language)",
+    "title": "Potion",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      3,
+      4,
+      14,
+      32,
+      160,
+      163,
+      183
+    ],
+    "influenced": [],
+    "appearedIn": 2007
+  },
+  {
+    "id": 183,
+    "url": "http://en.wikipedia.org/wiki/OCaml_(programming_language)",
+    "title": "OCaml",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      106,
+      184
+    ],
+    "influenced": [
+      0,
+      108,
+      122,
+      185,
+      202
+    ],
+    "appearedIn": 1996
+  },
+  {
+    "id": 184,
+    "url": "http://en.wikipedia.org/wiki/Caml_Light",
+    "title": "Caml",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred"
+    ],
+    "influencedBy": [
+      89
+    ],
+    "influenced": [
+      122
+    ],
+    "appearedIn": 1985
+  },
+  {
+    "id": 185,
+    "url": "http://en.wikipedia.org/wiki/Opa_(programming_language)",
+    "title": "Opa",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      117,
+      186,
+      201
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 186,
+    "url": "http://en.wikipedia.org/wiki/JavaScript",
+    "title": "JavaScript",
+    "typingDiscipline": [
+      "dynamic",
+      "duck"
+    ],
+    "influencedBy": [
+      11,
+      15,
+      32,
+      50,
+      123,
+      162,
+      187
+    ],
+    "influenced": [
+      120,
+      190,
+      191,
+      193,
+      194,
+      195,
+      197,
+      198,
+      200
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 187,
+    "url": "http://en.wikipedia.org/wiki/HyperTalk",
+    "title": "HyperTalk",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      188,
+      189
+    ],
+    "appearedIn": 1987
+  },
+  {
+    "id": 188,
+    "url": "http://en.wikipedia.org/wiki/ECMAScript",
+    "title": "ECMAScript",
+    "typingDiscipline": [
+      "duck",
+      "weak",
+      "dynamic"
+    ],
+    "influencedBy": [
+      11,
+      15,
+      32,
+      50,
+      84,
+      123,
+      162,
+      187
+    ],
+    "influenced": [],
+    "appearedIn": 1997
+  },
+  {
+    "id": 189,
+    "url": "http://en.wikipedia.org/wiki/LiveCode",
+    "title": "LiveCode",
+    "typingDiscipline": [],
+    "influencedBy": [
+      187
+    ],
+    "influenced": [],
+    "appearedIn": 1993
+  },
+  {
+    "id": 190,
+    "url": "http://en.wikipedia.org/wiki/LiveScript",
+    "title": "LiveScript",
+    "typingDiscipline": [
+      "dynamic",
+      "weak",
+      "strong"
+    ],
+    "influencedBy": [
+      98,
+      122,
+      186,
+      191
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 191,
+    "url": "http://en.wikipedia.org/wiki/CoffeeScript",
+    "title": "CoffeeScript",
+    "typingDiscipline": [],
+    "influencedBy": [
+      3,
+      84,
+      98,
+      123,
+      186,
+      192
+    ],
+    "influenced": [
+      190
+    ]
+  },
+  {
+    "id": 192,
+    "url": "http://en.wikipedia.org/wiki/YAML",
+    "title": "YAML",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 193,
+    "url": "http://en.wikipedia.org/wiki/TypeScript",
+    "title": "TypeScript",
+    "typingDiscipline": [],
+    "influencedBy": [
+      50,
+      121,
+      186
+    ],
+    "influenced": [
+      194
+    ]
+  },
+  {
+    "id": 194,
+    "url": "http://en.wikipedia.org/wiki/AtScript",
+    "title": "AtScript",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 195,
+    "url": "http://en.wikipedia.org/wiki/QML",
+    "title": "QML",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      186,
+      196
+    ],
+    "influenced": [
+      196
+    ],
+    "appearedIn": 2009
+  },
+  {
+    "id": 196,
+    "url": "http://en.wikipedia.org/wiki/Qt_(framework)",
+    "title": "Qt (software)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 197,
+    "url": "http://en.wikipedia.org/wiki/Objective-J",
+    "title": "Objective-J",
+    "typingDiscipline": [
+      "dynamic",
+      "weak",
+      "duck"
+    ],
+    "influencedBy": [
+      52,
+      186
+    ],
+    "influenced": [],
+    "appearedIn": 2008
+  },
+  {
+    "id": 198,
+    "url": "http://en.wikipedia.org/wiki/JScript_.NET",
+    "title": "JScript .NET",
+    "typingDiscipline": [
+      "duck",
+      "weak",
+      "dynamic"
+    ],
+    "influencedBy": [
+      188,
+      199
+    ],
+    "influenced": []
+  },
+  {
+    "id": 199,
+    "url": "http://en.wikipedia.org/wiki/JScript",
+    "title": "JScript",
+    "typingDiscipline": [
+      "dynamic",
+      "weak",
+      "duck"
+    ],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 1996
+  },
+  {
+    "id": 200,
+    "url": "http://en.wikipedia.org/wiki/ActionScript",
+    "title": "ActionScript",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      50,
+      186
+    ],
+    "influenced": [],
+    "appearedIn": 1998
+  },
+  {
+    "id": 201,
+    "url": "http://en.wikipedia.org/wiki/OCaml",
+    "title": "OCaml",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      106,
+      184
+    ],
+    "influenced": [
+      0,
+      108,
+      122,
+      185,
+      202
+    ],
+    "appearedIn": 1996
+  },
+  {
+    "id": 202,
+    "url": "http://en.wikipedia.org/wiki/ATS_(programming_language)",
+    "title": "ATS",
+    "typingDiscipline": [],
+    "influencedBy": [
+      89,
+      201,
+      203
+    ],
+    "influenced": []
+  },
+  {
+    "id": 203,
+    "url": "http://en.wikipedia.org/wiki/Dependent_ML",
+    "title": "Dependent ML",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 204,
+    "url": "http://en.wikipedia.org/wiki/Ioke_(programming_language)",
+    "title": "Ioke",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      3,
+      4,
+      9,
+      160
+    ],
+    "influenced": []
+  },
+  {
+    "id": 205,
+    "url": "http://en.wikipedia.org/wiki/Smalltalk_(programming_language)",
+    "title": "Smalltalk",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      5,
+      6,
+      9,
+      21
+    ],
+    "influenced": [
+      3,
+      50,
+      52,
+      62,
+      108,
+      120,
+      123,
+      149,
+      157,
+      159,
+      160,
+      162,
+      176,
+      180,
+      204,
+      206,
+      207,
+      209,
+      210,
+      213,
+      216,
+      220
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 206,
+    "url": "http://en.wikipedia.org/wiki/Falcon_(programming_language)",
+    "title": "Falcon",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      3,
+      4,
+      9,
+      14,
+      84,
+      88,
+      123,
+      207
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 207,
+    "url": "http://en.wikipedia.org/wiki/PHP",
+    "title": "PHP",
+    "typingDiscipline": [
+      "dynamic",
+      "weak"
+    ],
+    "influencedBy": [
+      10,
+      32,
+      50,
+      84,
+      88
+    ],
+    "influenced": [
+      208
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 208,
+    "url": "http://en.wikipedia.org/wiki/Hack_(programming_language)",
+    "title": "Hack",
+    "typingDiscipline": [
+      "static",
+      "dynamic",
+      "weak"
+    ],
+    "influencedBy": [
+      50,
+      121,
+      207
+    ],
+    "influenced": [],
+    "appearedIn": 2014
+  },
+  {
+    "id": 209,
+    "url": "http://en.wikipedia.org/wiki/Perl_6",
+    "title": "Perl 6",
+    "typingDiscipline": [
+      "dynamic",
+      "static",
+      "gradual"
+    ],
+    "influencedBy": [
+      3,
+      4,
+      84,
+      98,
+      186
+    ],
+    "influenced": [],
+    "appearedIn": 2000
+  },
+  {
+    "id": 210,
+    "url": "http://en.wikipedia.org/wiki/Groovy_(programming_language)",
+    "title": "Groovy",
+    "typingDiscipline": [
+      "dynamic",
+      "static",
+      "strong",
+      "duck"
+    ],
+    "influencedBy": [
+      3,
+      4,
+      50,
+      52,
+      84,
+      123
+    ],
+    "influenced": [
+      1,
+      211
+    ],
+    "appearedIn": 2003
+  },
+  {
+    "id": 211,
+    "url": "http://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+    "title": "Kotlin",
+    "typingDiscipline": [
+      "static"
+    ],
+    "influencedBy": [
+      50,
+      108,
+      121,
+      210,
+      212
+    ],
+    "influenced": []
+  },
+  {
+    "id": 212,
+    "url": "http://en.wikipedia.org/wiki/Gosu_(programming_language)",
+    "title": "Gosu",
+    "typingDiscipline": [],
+    "influencedBy": [
+      3,
+      50,
+      98,
+      117,
+      121,
+      123
+    ],
+    "influenced": []
+  },
+  {
+    "id": 213,
+    "url": "http://en.wikipedia.org/wiki/AppleScript",
+    "title": "AppleScript",
+    "typingDiscipline": [
+      "weak",
+      "dynamic"
+    ],
+    "influencedBy": [
+      214,
+      215
+    ],
+    "influenced": [],
+    "appearedIn": 1993
+  },
+  {
+    "id": 214,
+    "url": "http://en.wikipedia.org/wiki/HyperCard",
+    "title": "HyperCard",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 215,
+    "url": "http://en.wikipedia.org/wiki/Natural_language_programming",
+    "title": "Natural language programming",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 216,
+    "url": "http://en.wikipedia.org/wiki/Logtalk",
+    "title": "Logtalk",
+    "typingDiscipline": [],
+    "influencedBy": [
+      4,
+      52,
+      110,
+      217,
+      218,
+      219
+    ],
+    "influenced": [],
+    "appearedIn": 1998
+  },
+  {
+    "id": 217,
+    "url": "http://en.wikipedia.org/wiki/Prototype-based_programming",
+    "title": "Prototype-based programming",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 218,
+    "url": "http://en.wikipedia.org/wiki/Object-oriented_programming",
+    "title": "Object-oriented programming",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 219,
+    "url": "http://en.wikipedia.org/wiki/Logic_programming",
+    "title": "Logic programming",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 220,
+    "url": "http://en.wikipedia.org/wiki/Object_REXX",
+    "title": "Object REXX",
+    "typingDiscipline": [],
+    "influencedBy": [
+      4,
+      221
+    ],
+    "influenced": [
+      224
+    ],
+    "appearedIn": 1988
+  },
+  {
+    "id": 221,
+    "url": "http://en.wikipedia.org/wiki/REXX",
+    "title": "Rexx",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      33,
+      222,
+      223
+    ],
+    "influenced": [
+      220,
+      224
+    ],
+    "appearedIn": 1979
+  },
+  {
+    "id": 222,
+    "url": "http://en.wikipedia.org/wiki/EXEC_2",
+    "title": "EXEC 2",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 223,
+    "url": "http://en.wikipedia.org/wiki/Algol",
+    "title": "Algol",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 224,
+    "url": "http://en.wikipedia.org/wiki/NetRexx",
+    "title": "NetRexx",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "partly dynamic",
+      "everything is a string (for the rexx data type",
+      "which handles strings and numbers)"
+    ],
+    "influencedBy": [
+      33,
+      50,
+      220,
+      221
+    ],
+    "influenced": [],
+    "appearedIn": 1996
+  },
+  {
+    "id": 225,
+    "url": "http://en.wikipedia.org/wiki/Goo_(programming_language)",
+    "title": "Goo",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15,
+      149
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 226,
+    "url": "http://en.wikipedia.org/wiki/ObjVlisp",
+    "title": "ObjVlisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 227,
+    "url": "http://en.wikipedia.org/wiki/T_(programming_language)",
+    "title": "T",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      15
+    ],
+    "influenced": [
+      150,
+      153
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 228,
+    "url": "http://en.wikipedia.org/wiki/LeLisp",
+    "title": "Le Lisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 229,
+    "url": "http://en.wikipedia.org/wiki/InterLisp",
+    "title": "Interlisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 230,
+    "url": "http://en.wikipedia.org/wiki/ISLISP",
+    "title": "ISLISP",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 231,
+    "url": "http://en.wikipedia.org/wiki/ALGOL_68",
+    "title": "ALGOL 68",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "structural"
+    ],
+    "influencedBy": [
+      22,
+      232
+    ],
+    "influenced": [
+      12,
+      32,
+      87,
+      88,
+      123,
+      233,
+      234,
+      235,
+      239,
+      240
+    ]
+  },
+  {
+    "id": 232,
+    "url": "http://en.wikipedia.org/wiki/ALGOL_Y",
+    "title": "ALGOL Y",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 233,
+    "url": "http://en.wikipedia.org/wiki/S3_(programming_language)",
+    "title": "S3",
+    "typingDiscipline": [],
+    "influencedBy": [
+      231
+    ],
+    "influenced": []
+  },
+  {
+    "id": 234,
+    "url": "http://en.wikipedia.org/wiki/Mary_(programming_language)",
+    "title": "Mary",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      231
+    ],
+    "influenced": [],
+    "appearedIn": 1970
+  },
+  {
+    "id": 235,
+    "url": "http://en.wikipedia.org/wiki/Ada_programming_language",
+    "title": "Ada",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "nominative"
+    ],
+    "influencedBy": [
+      4,
+      19,
+      50,
+      85,
+      88,
+      231
+    ],
+    "influenced": [
+      0,
+      3,
+      19,
+      50,
+      87,
+      88,
+      236,
+      237,
+      238
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 236,
+    "url": "http://en.wikipedia.org/wiki/SQL/PSM",
+    "title": "SQL/PSM",
+    "typingDiscipline": [],
+    "influencedBy": [
+      18
+    ],
+    "influenced": [],
+    "appearedIn": 1996
+  },
+  {
+    "id": 237,
+    "url": "http://en.wikipedia.org/wiki/VHDL",
+    "title": "VHDL",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      18,
+      85
+    ],
+    "influenced": [],
+    "appearedIn": 1980
+  },
+  {
+    "id": 238,
+    "url": "http://en.wikipedia.org/wiki/PL/SQL",
+    "title": "PL/SQL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 239,
+    "url": "http://en.wikipedia.org/wiki/Steelman_language_requirements",
+    "title": "Steelman language requirements",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 240,
+    "url": "http://en.wikipedia.org/wiki/Bash_(Unix_shell)",
+    "title": "Bash (Unix shell)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 241,
+    "url": "http://en.wikipedia.org/wiki/ABC_(programming_language)",
+    "title": "ABC",
+    "typingDiscipline": [
+      "strong",
+      "polymorphic"
+    ],
+    "influencedBy": [
+      231,
+      242
+    ],
+    "influenced": [
+      123
+    ]
+  },
+  {
+    "id": 242,
+    "url": "http://en.wikipedia.org/wiki/SETL",
+    "title": "SETL",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [],
+    "influenced": [
+      241,
+      243
+    ],
+    "appearedIn": 1969
+  },
+  {
+    "id": 243,
+    "url": "http://en.wikipedia.org/wiki/ProSet",
+    "title": "ProSet",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 244,
+    "url": "http://en.wikipedia.org/wiki/Cobra_(programming_language)",
+    "title": "Cobra",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "dynamic",
+      "inferred"
+    ],
+    "influencedBy": [
+      19,
+      52,
+      121,
+      123
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 245,
+    "url": "http://en.wikipedia.org/wiki/Boo_(programming_language)",
+    "title": "Boo",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "duck"
+    ],
+    "influencedBy": [
+      121,
+      123
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 246,
+    "url": "http://en.wikipedia.org/wiki/F*_(programming_language)",
+    "title": "F*",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      122
+    ],
+    "influenced": []
+  },
+  {
+    "id": 247,
+    "url": "http://en.wikipedia.org/wiki/C%CF%89",
+    "title": "Cω",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe"
+    ],
+    "influencedBy": [
+      121,
+      248
+    ],
+    "influenced": [
+      121,
+      250,
+      251
+    ],
+    "appearedIn": 2003
+  },
+  {
+    "id": 248,
+    "url": "http://en.wikipedia.org/wiki/Polyphonic_C_sharp",
+    "title": "Polyphonic C Sharp",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe",
+      "nominative"
+    ],
+    "influencedBy": [
+      121,
+      249
+    ],
+    "influenced": [
+      247
+    ],
+    "appearedIn": 2002
+  },
+  {
+    "id": 249,
+    "url": "http://en.wikipedia.org/wiki/Join_calculus",
+    "title": "Join-calculus",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 250,
+    "url": "http://en.wikipedia.org/wiki/Joins_(concurrency_library)",
+    "title": "Joins (concurrency library)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 251,
+    "url": "http://en.wikipedia.org/wiki/Language_Integrated_Query",
+    "title": "Language Integrated Query",
+    "typingDiscipline": [
+      "strongly typed"
+    ],
+    "influencedBy": [
+      98,
+      252
+    ],
+    "influenced": []
+  },
+  {
+    "id": 252,
+    "url": "http://en.wikipedia.org/wiki/SQL",
+    "title": "SQL",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      113
+    ],
+    "influenced": [
+      251,
+      253,
+      254,
+      256,
+      264
+    ],
+    "appearedIn": 1974
+  },
+  {
+    "id": 253,
+    "url": "http://en.wikipedia.org/wiki/Java_Object_Oriented_Querying",
+    "title": "Java Object Oriented Querying",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 254,
+    "url": "http://en.wikipedia.org/wiki/Java_Persistence_Query_Language",
+    "title": "Java Persistence Query Language",
+    "typingDiscipline": [],
+    "influencedBy": [
+      252,
+      255
+    ],
+    "influenced": []
+  },
+  {
+    "id": 255,
+    "url": "http://en.wikipedia.org/wiki/Hibernate_(Java)#Hibernate_Query_Language_.28HQL.29",
+    "title": "Hibernate (Java)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 256,
+    "url": "http://en.wikipedia.org/wiki/Windows_PowerShell",
+    "title": "Windows PowerShell",
+    "typingDiscipline": [
+      "strong",
+      "safe",
+      "implicit and dynamic"
+    ],
+    "influencedBy": [
+      10,
+      84,
+      121,
+      252,
+      257,
+      258,
+      259,
+      260,
+      261,
+      263
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 257,
+    "url": "http://en.wikipedia.org/wiki/Puppet_(software)",
+    "title": "Puppet (software)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 258,
+    "url": "http://en.wikipedia.org/wiki/Chef_(software)",
+    "title": "Chef (software)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 259,
+    "url": "http://en.wikipedia.org/wiki/Tk_(framework)",
+    "title": "Tk (software)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 260,
+    "url": "http://en.wikipedia.org/wiki/DIGITAL_Command_Language",
+    "title": "DIGITAL Command Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      256
+    ]
+  },
+  {
+    "id": 261,
+    "url": "http://en.wikipedia.org/wiki/AS/400_Control_Language",
+    "title": "IBM i Control Language",
+    "typingDiscipline": [],
+    "influencedBy": [
+      33,
+      262
+    ],
+    "influenced": [
+      256
+    ]
+  },
+  {
+    "id": 262,
+    "url": "http://en.wikipedia.org/wiki/Job_Control_Language",
+    "title": "Job Control Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 263,
+    "url": "http://en.wikipedia.org/wiki/Korn_shell",
+    "title": "Korn shell",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 264,
+    "url": "http://en.wikipedia.org/wiki/Common_Query_Language",
+    "title": "Contextual Query Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 265,
+    "url": "http://en.wikipedia.org/wiki/Object_Pascal",
+    "title": "Object Pascal",
+    "typingDiscipline": [
+      "static and dynamic (dynamic typing through variants",
+      "array of const and rtti)",
+      "strong",
+      "safe"
+    ],
+    "influencedBy": [
+      4,
+      85
+    ],
+    "influenced": [
+      50,
+      121
+    ],
+    "appearedIn": 1986
+  },
+  {
+    "id": 266,
+    "url": "http://en.wikipedia.org/wiki/Vala_(programming_language)",
+    "title": "Vala",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      2,
+      32,
+      50,
+      88,
+      121,
+      123
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 267,
+    "url": "http://en.wikipedia.org/wiki/Nemerle",
+    "title": "Nemerle",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "nominal"
+    ],
+    "influencedBy": [
+      9,
+      89,
+      121
+    ],
+    "influenced": [],
+    "appearedIn": 2003
+  },
+  {
+    "id": 268,
+    "url": "http://en.wikipedia.org/wiki/Monkey_(programming_language)",
+    "title": "Monkey X",
+    "typingDiscipline": [
+      "static",
+      "weak",
+      "strong (optional)",
+      "safe",
+      "nominative",
+      "partially inferred"
+    ],
+    "influencedBy": [
+      32,
+      50,
+      121,
+      186,
+      269,
+      273,
+      274
+    ],
+    "influenced": []
+  },
+  {
+    "id": 269,
+    "url": "http://en.wikipedia.org/wiki/C%2B%2B_(programming_language)",
+    "title": "C++",
+    "typingDiscipline": [
+      "static",
+      "nominative"
+    ],
+    "influencedBy": [
+      18,
+      21,
+      32,
+      54,
+      89,
+      231
+    ],
+    "influenced": [
+      2,
+      14,
+      18,
+      50,
+      84,
+      87,
+      121,
+      206,
+      207,
+      270,
+      271,
+      272
+    ],
+    "appearedIn": 1983
+  },
+  {
+    "id": 270,
+    "url": "http://en.wikipedia.org/wiki/C99",
+    "title": "C99",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 271,
+    "url": "http://en.wikipedia.org/wiki/Pike_(programming_language)",
+    "title": "Pike",
+    "typingDiscipline": [
+      "static",
+      "dynamic",
+      "manifest"
+    ],
+    "influencedBy": [
+      32,
+      88,
+      272
+    ],
+    "influenced": [],
+    "appearedIn": 1994
+  },
+  {
+    "id": 272,
+    "url": "http://en.wikipedia.org/wiki/LPC_(programming_language)",
+    "title": "LPC",
+    "typingDiscipline": [
+      "weak static",
+      "strong dynamic"
+    ],
+    "influencedBy": [
+      9,
+      32,
+      84,
+      88
+    ],
+    "influenced": [
+      271
+    ]
+  },
+  {
+    "id": 273,
+    "url": "http://en.wikipedia.org/wiki/Blitz_BASIC#BlitzMax",
+    "title": "Blitz BASIC",
+    "typingDiscipline": [
+      "static",
+      "weak",
+      "strong (optional)"
+    ],
+    "influencedBy": [],
+    "influenced": [
+      268
+    ],
+    "appearedIn": 2004
+  },
+  {
+    "id": 274,
+    "url": "http://en.wikipedia.org/wiki/Blitz_BASIC",
+    "title": "Blitz BASIC",
+    "typingDiscipline": [
+      "static",
+      "weak",
+      "strong (optional)"
+    ],
+    "influencedBy": [],
+    "influenced": [
+      268
+    ],
+    "appearedIn": 2004
+  },
+  {
+    "id": 275,
+    "url": "http://en.wikipedia.org/wiki/Strongtalk",
+    "title": "Strongtalk",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 276,
+    "url": "http://en.wikipedia.org/wiki/Elixir_(programming_language)",
+    "title": "Elixir",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      3,
+      117,
+      277
+    ],
+    "influenced": [],
+    "appearedIn": 2012
+  },
+  {
+    "id": 277,
+    "url": "http://en.wikipedia.org/wiki/Clojure",
+    "title": "Clojure",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      3,
+      15,
+      50,
+      56,
+      89,
+      98,
+      110,
+      117
+    ],
+    "influenced": [
+      276
+    ],
+    "appearedIn": 2007
+  },
+  {
+    "id": 278,
+    "url": "http://en.wikipedia.org/wiki/Reia_(programming_language)",
+    "title": "Reia",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      3,
+      117,
+      123
+    ],
+    "influenced": [],
+    "appearedIn": 2008
+  },
+  {
+    "id": 279,
+    "url": "http://en.wikipedia.org/wiki/Mercury_(programming_language)",
+    "title": "Mercury",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "polymorphic"
+    ],
+    "influencedBy": [
+      98,
+      101,
+      110
+    ],
+    "influenced": [],
+    "appearedIn": 1995
+  },
+  {
+    "id": 280,
+    "url": "http://en.wikipedia.org/wiki/Visual_Prolog",
+    "title": "Visual Prolog",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 281,
+    "url": "http://en.wikipedia.org/wiki/Alice_(programming_language)",
+    "title": "Alice",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "inferred"
+    ],
+    "influencedBy": [
+      89,
+      109
+    ],
+    "influenced": [],
+    "appearedIn": 2000
+  },
+  {
+    "id": 282,
+    "url": "http://en.wikipedia.org/wiki/Pizza_(programming_language)",
+    "title": "Pizza",
+    "typingDiscipline": [],
+    "influencedBy": [
+      50
+    ],
+    "influenced": [
+      283,
+      286
+    ]
+  },
+  {
+    "id": 283,
+    "url": "http://en.wikipedia.org/wiki/Scala_programming_language",
+    "title": "Scala",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred",
+      "structural"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      15,
+      19,
+      50,
+      98,
+      106,
+      109,
+      117,
+      201,
+      282
+    ],
+    "influenced": [
+      1,
+      157,
+      211,
+      284,
+      285
+    ],
+    "appearedIn": 2003
+  },
+  {
+    "id": 284,
+    "url": "http://en.wikipedia.org/wiki/Ceylon_Project",
+    "title": "Ceylon",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "safe"
+    ],
+    "influencedBy": [
+      4,
+      50,
+      108
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 285,
+    "url": "http://en.wikipedia.org/wiki/Fantom_(programming_language)",
+    "title": "Fantom",
+    "typingDiscipline": [
+      "static",
+      "dynamic"
+    ],
+    "influencedBy": [
+      3,
+      50,
+      108,
+      117,
+      121
+    ],
+    "influenced": [],
+    "appearedIn": 2005
+  },
+  {
+    "id": 286,
+    "url": "http://en.wikipedia.org/wiki/Generic_Java",
+    "title": "Generic Java",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      50,
+      282
+    ],
+    "influenced": [
+      50
+    ]
+  },
+  {
+    "id": 287,
+    "url": "http://en.wikipedia.org/wiki/Felix_(programming_language)",
+    "title": "Felix",
+    "typingDiscipline": [],
+    "influencedBy": [
+      88,
+      89
+    ],
+    "influenced": []
+  },
+  {
+    "id": 288,
+    "url": "http://en.wikipedia.org/wiki/Cyclone_(programming_language)",
+    "title": "Cyclone",
+    "typingDiscipline": [],
+    "influencedBy": [
+      32
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 289,
+    "url": "http://en.wikipedia.org/wiki/Id_(programming_language)",
+    "title": "Id",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 290,
+    "url": "http://en.wikipedia.org/wiki/Gofer_(programming_language)",
+    "title": "Gofer",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 291,
+    "url": "http://en.wikipedia.org/wiki/Timber_(programming_language)",
+    "title": "Timber",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 292,
+    "url": "http://en.wikipedia.org/wiki/Qi_(programming_language)",
+    "title": "Qi",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 293,
+    "url": "http://en.wikipedia.org/wiki/%CE%A9mega_interpreter",
+    "title": "Ωmega",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 294,
+    "url": "http://en.wikipedia.org/wiki/Generics_in_Java",
+    "title": "Generics in Java",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 295,
+    "url": "http://en.wikipedia.org/wiki/Isabelle_theorem_prover",
+    "title": "Isabelle (proof assistant)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 296,
+    "url": "http://en.wikipedia.org/wiki/Idris_(programming_language)",
+    "title": "Idris",
+    "typingDiscipline": [],
+    "influencedBy": [
+      89,
+      98,
+      297,
+      299,
+      306
+    ],
+    "influenced": []
+  },
+  {
+    "id": 297,
+    "url": "http://en.wikipedia.org/wiki/Epigram_(programming_language)",
+    "title": "Epigram",
+    "typingDiscipline": [
+      "strong",
+      "static",
+      "dependent"
+    ],
+    "influencedBy": [
+      298
+    ],
+    "influenced": [],
+    "appearedIn": 2004
+  },
+  {
+    "id": 298,
+    "url": "http://en.wikipedia.org/wiki/ALF_(theorem_prover)",
+    "title": "ALF (proof assistant)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 299,
+    "url": "http://en.wikipedia.org/wiki/Coq",
+    "title": "Coq",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      107,
+      300,
+      301,
+      302,
+      303
+    ],
+    "influenced": [
+      304,
+      305
+    ],
+    "appearedIn": 1984
+  },
+  {
+    "id": 300,
+    "url": "http://en.wikipedia.org/wiki/Intuitionistic_type_theory",
+    "title": "Intuitionistic type theory",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 301,
+    "url": "http://en.wikipedia.org/wiki/System_F",
+    "title": "System F",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 302,
+    "url": "http://en.wikipedia.org/wiki/Automath",
+    "title": "Automath",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 303,
+    "url": "http://en.wikipedia.org/wiki/LCF_theorem_prover",
+    "title": "Logic for Computable Functions",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 304,
+    "url": "http://en.wikipedia.org/wiki/Matita",
+    "title": "Matita",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 305,
+    "url": "http://en.wikipedia.org/wiki/Agda_(theorem_prover)",
+    "title": "Agda",
+    "typingDiscipline": [],
+    "influencedBy": [
+      98,
+      297,
+      299
+    ],
+    "influenced": [
+      296
+    ],
+    "appearedIn": 2007
+  },
+  {
+    "id": 306,
+    "url": "http://en.wikipedia.org/wiki/Agda_(programming_language)",
+    "title": "Agda",
+    "typingDiscipline": [],
+    "influencedBy": [
+      98,
+      297,
+      299
+    ],
+    "influenced": [
+      296
+    ],
+    "appearedIn": 2007
+  },
+  {
+    "id": 307,
+    "url": "http://en.wikipedia.org/wiki/Frege_(programming_language)",
+    "title": "Frege",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      98
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 308,
+    "url": "http://en.wikipedia.org/wiki/Escher_(programming_language)",
+    "title": "Escher",
+    "typingDiscipline": [
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      309
+    ],
+    "influenced": []
+  },
+  {
+    "id": 309,
+    "url": "http://en.wikipedia.org/wiki/Simple_theory_of_types",
+    "title": "History of type theory",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 310,
+    "url": "http://en.wikipedia.org/wiki/Elm_(programming_language)",
+    "title": "Elm",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      98,
+      106,
+      122,
+      201
+    ],
+    "influenced": [],
+    "appearedIn": 2011
+  },
+  {
+    "id": 311,
+    "url": "http://en.wikipedia.org/wiki/Curry_(programming_language)",
+    "title": "Curry",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      98
+    ],
+    "influenced": []
+  },
+  {
+    "id": 312,
+    "url": "http://en.wikipedia.org/wiki/Cayenne_(programming_language)",
+    "title": "Cayenne",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 313,
+    "url": "http://en.wikipedia.org/wiki/CAL_(Quark_Framework)",
+    "title": "Quark Framework",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      50,
+      97,
+      314
+    ],
+    "influenced": [],
+    "appearedIn": 2004
+  },
+  {
+    "id": 314,
+    "url": "http://en.wikipedia.org/wiki/Haskell_programming_language",
+    "title": "Haskell",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      9,
+      15,
+      77,
+      89,
+      90,
+      95,
+      97,
+      99,
+      101,
+      103,
+      104,
+      105,
+      106,
+      289,
+      290
+    ],
+    "influenced": [
+      45,
+      50,
+      53,
+      97,
+      108,
+      121,
+      122,
+      123,
+      190,
+      191,
+      209,
+      251,
+      277,
+      279,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      305,
+      307,
+      308,
+      310,
+      311,
+      312,
+      313,
+      315,
+      316,
+      317
+    ],
+    "appearedIn": 1990
+  },
+  {
+    "id": 315,
+    "url": "http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)",
+    "title": "Concepts (C++)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 316,
+    "url": "http://en.wikipedia.org/wiki/C%2B%2B11",
+    "title": "C++11",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 317,
+    "url": "http://en.wikipedia.org/wiki/Bluespec,_Inc.",
+    "title": "Bluespec, Inc.",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 318,
+    "url": "http://en.wikipedia.org/wiki/Oxygene_(programming_language)",
+    "title": "Oxygene",
+    "typingDiscipline": [],
+    "influencedBy": [
+      121,
+      265
+    ],
+    "influenced": []
+  },
+  {
+    "id": 319,
+    "url": "http://en.wikipedia.org/wiki/Oberon-2_(programming_language)",
+    "title": "Oberon-2",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      85,
+      125,
+      126
+    ],
+    "influenced": [
+      143
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 320,
+    "url": "http://en.wikipedia.org/wiki/Unix_shell",
+    "title": "Unix shell",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 321,
+    "url": "http://en.wikipedia.org/wiki/Sed",
+    "title": "sed",
+    "typingDiscipline": [],
+    "influencedBy": [
+      322
+    ],
+    "influenced": [
+      11,
+      84,
+      323
+    ],
+    "appearedIn": 1974
+  },
+  {
+    "id": 322,
+    "url": "http://en.wikipedia.org/wiki/Ed_(text_editor)",
+    "title": "ed (text editor)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 323,
+    "url": "http://en.wikipedia.org/wiki/Chomski",
+    "title": "chomski",
+    "typingDiscipline": [
+      "none; all data is treated as a string"
+    ],
+    "influencedBy": [
+      321,
+      324
+    ],
+    "influenced": [],
+    "appearedIn": 2007
+  },
+  {
+    "id": 324,
+    "url": "http://en.wikipedia.org/wiki/Awk",
+    "title": "AWK",
+    "typingDiscipline": [
+      "none; can handle strings",
+      "integers and floating point numbers; regular expressions"
+    ],
+    "influencedBy": [
+      12,
+      13,
+      32
+    ],
+    "influenced": [
+      10,
+      14,
+      84,
+      325,
+      326
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 325,
+    "url": "http://en.wikipedia.org/wiki/Korn_Shell",
+    "title": "Korn shell",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 326,
+    "url": "http://en.wikipedia.org/wiki/AMPL",
+    "title": "AMPL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      11,
+      32
+    ],
+    "influenced": [
+      327
+    ],
+    "appearedIn": 1985
+  },
+  {
+    "id": 327,
+    "url": "http://en.wikipedia.org/wiki/Coopr",
+    "title": "Coopr",
+    "typingDiscipline": [],
+    "influencedBy": [
+      123,
+      326
+    ],
+    "influenced": [],
+    "appearedIn": 2008
+  },
+  {
+    "id": 328,
+    "url": "http://en.wikipedia.org/wiki/Smalltalk_80",
+    "title": "Smalltalk",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      5,
+      6,
+      9,
+      21
+    ],
+    "influenced": [
+      3,
+      50,
+      52,
+      62,
+      108,
+      120,
+      123,
+      149,
+      157,
+      159,
+      160,
+      162,
+      176,
+      180,
+      204,
+      206,
+      207,
+      209,
+      210,
+      213,
+      216,
+      220
+    ],
+    "appearedIn": 1972
+  },
+  {
+    "id": 329,
+    "url": "http://en.wikipedia.org/wiki/AWK_(programming_language)",
+    "title": "AWK",
+    "typingDiscipline": [
+      "none; can handle strings",
+      "integers and floating point numbers; regular expressions"
+    ],
+    "influencedBy": [
+      12,
+      13,
+      32
+    ],
+    "influenced": [
+      10,
+      14,
+      84,
+      325,
+      326
+    ],
+    "appearedIn": 1977
+  },
+  {
+    "id": 330,
+    "url": "http://en.wikipedia.org/wiki/Javascript",
+    "title": "JavaScript",
+    "typingDiscipline": [
+      "dynamic",
+      "duck"
+    ],
+    "influencedBy": [
+      11,
+      15,
+      32,
+      50,
+      123,
+      162,
+      187
+    ],
+    "influenced": [
+      120,
+      190,
+      191,
+      193,
+      194,
+      195,
+      197,
+      198,
+      200
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 331,
+    "url": "http://en.wikipedia.org/wiki/Wolfram_Language",
+    "title": "Wolfram Language",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [],
+    "influenced": [
+      83
+    ]
+  },
+  {
+    "id": 332,
+    "url": "http://en.wikipedia.org/wiki/Emacs_Lisp",
+    "title": "Emacs Lisp",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 333,
+    "url": "http://en.wikipedia.org/wiki/Cool_(programming_language)",
+    "title": "Cool",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "manifest"
+    ],
+    "influencedBy": [
+      50,
+      55,
+      85,
+      89
+    ],
+    "influenced": [
+      201
+    ],
+    "appearedIn": 1996
+  },
+  {
+    "id": 334,
+    "url": "http://en.wikipedia.org/wiki/Ruby_programming_language",
+    "title": "Ruby",
+    "typingDiscipline": [
+      "duck",
+      "dynamic"
+    ],
+    "influencedBy": [
+      4,
+      9,
+      14,
+      18,
+      19,
+      54,
+      84,
+      88,
+      123,
+      149
+    ],
+    "influenced": [
+      2,
+      53,
+      83,
+      159,
+      182,
+      204,
+      206,
+      210,
+      276,
+      277,
+      278,
+      335,
+      336
+    ],
+    "appearedIn": 1995
+  },
+  {
+    "id": 335,
+    "url": "http://en.wikipedia.org/wiki/Nu_(programming_language)",
+    "title": "Nu",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      3,
+      9,
+      52
+    ],
+    "influenced": [],
+    "appearedIn": 2007
+  },
+  {
+    "id": 336,
+    "url": "http://en.wikipedia.org/wiki/Mirah_(programming_language)",
+    "title": "Mirah",
+    "typingDiscipline": [
+      "static",
+      "with dynamic features",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      3,
+      50,
+      245
+    ],
+    "influenced": [],
+    "appearedIn": 2008
+  },
+  {
+    "id": 337,
+    "url": "http://en.wikipedia.org/wiki/Argus_(programming_language)",
+    "title": "Argus",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 338,
+    "url": "http://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language)",
+    "title": "TOM (object-oriented programming language)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 339,
+    "url": "http://en.wikipedia.org/wiki/Mesa_(programming_language)",
+    "title": "Mesa",
+    "typingDiscipline": [
+      "strongly typed"
+    ],
+    "influencedBy": [
+      17
+    ],
+    "influenced": [
+      50,
+      126
+    ],
+    "appearedIn": 1970
+  },
+  {
+    "id": 340,
+    "url": "http://en.wikipedia.org/wiki/J_Sharp",
+    "title": "J Sharp",
+    "typingDiscipline": [],
+    "influencedBy": [
+      50,
+      341
+    ],
+    "influenced": [],
+    "appearedIn": 2002
+  },
+  {
+    "id": 341,
+    "url": "http://en.wikipedia.org/wiki/Visual_J%2B%2B",
+    "title": "Visual J++",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 342,
+    "url": "http://en.wikipedia.org/wiki/BeanShell",
+    "title": "BeanShell",
+    "typingDiscipline": [
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      50
+    ],
+    "influenced": [],
+    "appearedIn": 1999
+  },
+  {
+    "id": 343,
+    "url": "http://en.wikipedia.org/wiki/COMAL",
+    "title": "COMAL",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      40,
+      85
+    ],
+    "influenced": [],
+    "appearedIn": 1973
+  },
+  {
+    "id": 344,
+    "url": "http://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript",
+    "title": "Caché ObjectScript",
+    "typingDiscipline": [],
+    "influencedBy": [
+      35
+    ],
+    "influenced": [],
+    "appearedIn": 1997
+  },
+  {
+    "id": 345,
+    "url": "http://en.wikipedia.org/wiki/Profile_Scripting_Language",
+    "title": "Profile Scripting Language",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 346,
+    "url": "http://en.wikipedia.org/wiki/COBOL",
+    "title": "COBOL",
+    "typingDiscipline": [
+      "weak",
+      "static"
+    ],
+    "influencedBy": [
+      4,
+      88,
+      347,
+      348,
+      349,
+      350
+    ],
+    "influenced": [
+      33
+    ],
+    "appearedIn": 1959
+  },
+  {
+    "id": 347,
+    "url": "http://en.wikipedia.org/wiki/FLOW-MATIC",
+    "title": "FLOW-MATIC",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      346
+    ],
+    "appearedIn": 1955
+  },
+  {
+    "id": 348,
+    "url": "http://en.wikipedia.org/wiki/FACT_computer_language",
+    "title": "FACT (computer language)",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      346
+    ],
+    "appearedIn": 1959
+  },
+  {
+    "id": 349,
+    "url": "http://en.wikipedia.org/wiki/COMTRAN",
+    "title": "COMTRAN",
+    "typingDiscipline": [],
+    "influencedBy": [
+      347
+    ],
+    "influenced": [
+      346
+    ],
+    "appearedIn": 1957
+  },
+  {
+    "id": 350,
+    "url": "http://en.wikipedia.org/wiki/AIMACO",
+    "title": "Air Force Materiel Command",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 351,
+    "url": "http://en.wikipedia.org/wiki/B_(programming_language)",
+    "title": "B",
+    "typingDiscipline": [
+      "typeless (everything is a word)"
+    ],
+    "influencedBy": [
+      33,
+      352
+    ],
+    "influenced": [
+      32
+    ],
+    "appearedIn": 1969
+  },
+  {
+    "id": 352,
+    "url": "http://en.wikipedia.org/wiki/BCPL",
+    "title": "BCPL",
+    "typingDiscipline": [
+      "typeless (everything is a word)"
+    ],
+    "influencedBy": [
+      353
+    ],
+    "influenced": [
+      32,
+      351
+    ],
+    "appearedIn": 1966
+  },
+  {
+    "id": 353,
+    "url": "http://en.wikipedia.org/wiki/CPL_(programming_language)",
+    "title": "CPL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22
+    ],
+    "influenced": [
+      352,
+      354
+    ],
+    "appearedIn": 1963
+  },
+  {
+    "id": 354,
+    "url": "http://en.wikipedia.org/wiki/POP-2",
+    "title": "POP-2",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 355,
+    "url": "http://en.wikipedia.org/wiki/SP/k",
+    "title": "SP/k",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      33
+    ],
+    "influenced": [
+      356
+    ],
+    "appearedIn": 1974
+  },
+  {
+    "id": 356,
+    "url": "http://en.wikipedia.org/wiki/Turing_(programming_language)",
+    "title": "Turing",
+    "typingDiscipline": [
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      85,
+      355,
+      357
+    ],
+    "influenced": [],
+    "appearedIn": 1982
+  },
+  {
+    "id": 357,
+    "url": "http://en.wikipedia.org/wiki/Euclid_(programming_language)",
+    "title": "Euclid",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      85
+    ],
+    "influenced": [
+      339,
+      356,
+      358
+    ],
+    "appearedIn": 1970
+  },
+  {
+    "id": 358,
+    "url": "http://en.wikipedia.org/wiki/Concurrent_Euclid_(programming_language)",
+    "title": "Concurrent Euclid",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      140,
+      357
+    ],
+    "influenced": [
+      359
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 359,
+    "url": "http://en.wikipedia.org/wiki/Turing_Plus",
+    "title": "Turing+",
+    "typingDiscipline": [
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      356,
+      360
+    ],
+    "influenced": [
+      361
+    ],
+    "appearedIn": 1987
+  },
+  {
+    "id": 360,
+    "url": "http://en.wikipedia.org/wiki/Concurrent_Euclid",
+    "title": "Concurrent Euclid",
+    "typingDiscipline": [
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      140,
+      357
+    ],
+    "influenced": [
+      359
+    ],
+    "appearedIn": 1980
+  },
+  {
+    "id": 361,
+    "url": "http://en.wikipedia.org/wiki/Object-Oriented_Turing",
+    "title": "Object-Oriented Turing",
+    "typingDiscipline": [
+      "static",
+      "manifest"
+    ],
+    "influencedBy": [
+      356
+    ],
+    "influenced": [],
+    "appearedIn": 1991
+  },
+  {
+    "id": 362,
+    "url": "http://en.wikipedia.org/wiki/Verilog",
+    "title": "Verilog",
+    "typingDiscipline": [
+      "static",
+      "weak"
+    ],
+    "influencedBy": [],
+    "influenced": [
+      363
+    ],
+    "appearedIn": 1984
+  },
+  {
+    "id": 363,
+    "url": "http://en.wikipedia.org/wiki/SystemVerilog",
+    "title": "SystemVerilog",
+    "typingDiscipline": [
+      "static",
+      "weak"
+    ],
+    "influencedBy": [
+      362,
+      364
+    ],
+    "influenced": [],
+    "appearedIn": 2002
+  },
+  {
+    "id": 364,
+    "url": "http://en.wikipedia.org/wiki/OpenVera",
+    "title": "OpenVera",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 365,
+    "url": "http://en.wikipedia.org/wiki/Processing_(programming_language)",
+    "title": "Processing",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [
+      6,
+      32,
+      50,
+      168,
+      366,
+      367
+    ],
+    "influenced": [],
+    "appearedIn": 2001
+  },
+  {
+    "id": 366,
+    "url": "http://en.wikipedia.org/wiki/OpenGL",
+    "title": "OpenGL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 367,
+    "url": "http://en.wikipedia.org/wiki/Design_By_Numbers_(programming_language)",
+    "title": "Design By Numbers",
+    "typingDiscipline": [
+      "strong"
+    ],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 1999
+  },
+  {
+    "id": 368,
+    "url": "http://en.wikipedia.org/wiki/BitC",
+    "title": "BitC",
+    "typingDiscipline": [],
+    "influencedBy": [
+      89,
+      98
+    ],
+    "influenced": []
+  },
+  {
+    "id": 369,
+    "url": "http://en.wikipedia.org/wiki/C--",
+    "title": "C--",
+    "typingDiscipline": [
+      "static",
+      "weak"
+    ],
+    "influencedBy": [
+      32
+    ],
+    "influenced": [],
+    "appearedIn": 1997
+  },
+  {
+    "id": 370,
+    "url": "http://en.wikipedia.org/wiki/C_shell",
+    "title": "C shell",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 371,
+    "url": "http://en.wikipedia.org/wiki/Category:C_programming_language_family",
+    "title": "Category:C programming language family",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 372,
+    "url": "http://en.wikipedia.org/wiki/Algol-like",
+    "title": "ALGOL",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [
+      18,
+      21,
+      32,
+      85,
+      353
+    ],
+    "appearedIn": 1958
+  },
+  {
+    "id": 373,
+    "url": "http://en.wikipedia.org/wiki/Combined_Programming_Language",
+    "title": "CPL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      22
+    ],
+    "influenced": [
+      352,
+      354
+    ],
+    "appearedIn": 1963
+  },
+  {
+    "id": 374,
+    "url": "http://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages",
+    "title": "List of object-oriented programming languages",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 375,
+    "url": "http://en.wikipedia.org/wiki/Racket_(programming_language)",
+    "title": "Racket",
+    "typingDiscipline": [
+      "dynamic",
+      "strong",
+      "static"
+    ],
+    "influencedBy": [
+      15,
+      19
+    ],
+    "influenced": [
+      0,
+      15,
+      277
+    ],
+    "appearedIn": 1994
+  },
+  {
+    "id": 376,
+    "url": "http://en.wikipedia.org/wiki/Hop_(software)",
+    "title": "Hop (software)",
+    "typingDiscipline": [
+      "strong",
+      "dynamic"
+    ],
+    "influencedBy": [
+      15
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 377,
+    "url": "http://en.wikipedia.org/wiki/MiniD",
+    "title": "MiniD",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      2,
+      14,
+      123,
+      160,
+      188,
+      378
+    ],
+    "influenced": [],
+    "appearedIn": 2006
+  },
+  {
+    "id": 378,
+    "url": "http://en.wikipedia.org/wiki/Squirrel_(programming_language)",
+    "title": "Squirrel",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      14,
+      88,
+      123,
+      186
+    ],
+    "influenced": [
+      377
+    ],
+    "appearedIn": 2003
+  },
+  {
+    "id": 379,
+    "url": "http://en.wikipedia.org/wiki/GameMonkey_Script",
+    "title": "GameMonkey Script",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 380,
+    "url": "http://en.wikipedia.org/wiki/Tea_(programming_language)",
+    "title": "Tea",
+    "typingDiscipline": [],
+    "influencedBy": [
+      10,
+      15,
+      50
+    ],
+    "influenced": [],
+    "appearedIn": 1997
+  },
+  {
+    "id": 381,
+    "url": "http://en.wikipedia.org/wiki/Shen_(programming_language)",
+    "title": "Shen",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 382,
+    "url": "http://en.wikipedia.org/wiki/POP-11",
+    "title": "POP-11",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 383,
+    "url": "http://en.wikipedia.org/wiki/OPS5",
+    "title": "OPS5",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 384,
+    "url": "http://en.wikipedia.org/wiki/COWSEL",
+    "title": "COWSEL",
+    "typingDiscipline": [],
+    "influencedBy": [
+      9,
+      373
+    ],
+    "influenced": [
+      354
+    ],
+    "appearedIn": 1964
+  },
+  {
+    "id": 385,
+    "url": "http://en.wikipedia.org/wiki/CLIPS",
+    "title": "CLIPS",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": [],
+    "appearedIn": 1985
+  },
+  {
+    "id": 386,
+    "url": "http://en.wikipedia.org/wiki/KTurtle",
+    "title": "KTurtle",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 387,
+    "url": "http://en.wikipedia.org/wiki/NetLogo",
+    "title": "NetLogo",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      6,
+      388
+    ],
+    "influenced": [],
+    "appearedIn": 1999
+  },
+  {
+    "id": 388,
+    "url": "http://en.wikipedia.org/wiki/StarLogo",
+    "title": "StarLogo",
+    "typingDiscipline": [
+      "duck",
+      "dynamic",
+      "strong"
+    ],
+    "influencedBy": [
+      6
+    ],
+    "influenced": [
+      387,
+      389
+    ]
+  },
+  {
+    "id": 389,
+    "url": "http://en.wikipedia.org/wiki/Etoys_(programming_language)",
+    "title": "Etoys",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      4,
+      6,
+      214,
+      388,
+      390
+    ],
+    "influenced": [
+      391,
+      393
+    ],
+    "appearedIn": 1996
+  },
+  {
+    "id": 390,
+    "url": "http://en.wikipedia.org/wiki/AgentSheets",
+    "title": "AgentSheets",
+    "typingDiscipline": [],
+    "influencedBy": [
+      4,
+      6,
+      9
+    ],
+    "influenced": [
+      389,
+      391
+    ],
+    "appearedIn": 1991
+  },
+  {
+    "id": 391,
+    "url": "http://en.wikipedia.org/wiki/Scratch_(programming_language)",
+    "title": "Scratch",
+    "typingDiscipline": [
+      "dynamic"
+    ],
+    "influencedBy": [
+      4,
+      6,
+      214,
+      388,
+      389,
+      390
+    ],
+    "influenced": [
+      392
+    ],
+    "appearedIn": 2006
+  },
+  {
+    "id": 392,
+    "url": "http://en.wikipedia.org/wiki/Scratch_Jr",
+    "title": "Scratch Jr",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 393,
+    "url": "http://en.wikipedia.org/wiki/Croquet_Project",
+    "title": "Croquet Project",
+    "typingDiscipline": [],
+    "influencedBy": [],
+    "influenced": []
+  },
+  {
+    "id": 394,
+    "url": "http://en.wikipedia.org/wiki/Genie_(programming_language)",
+    "title": "Genie",
+    "typingDiscipline": [
+      "static",
+      "strong"
+    ],
+    "influencedBy": [
+      2,
+      123,
+      245,
+      265
+    ],
+    "influenced": [],
+    "appearedIn": 2008
+  },
+  {
+    "id": 395,
+    "url": "http://en.wikipedia.org/wiki/Ocaml",
+    "title": "OCaml",
+    "typingDiscipline": [
+      "static",
+      "strong",
+      "inferred"
+    ],
+    "influencedBy": [
+      106,
+      184
+    ],
+    "influenced": [
+      0,
+      108,
+      122,
+      185,
+      202
+    ],
+    "appearedIn": 1996
+  }
+]
