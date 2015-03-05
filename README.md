@@ -161,7 +161,7 @@ so we'll try to avoid it.
 
 ## Part 1: Demo
 
-Start with [Prologue.hs](#)
+Start with [Prologue.hs](https://github.com/phadej/helhug-types/blob/master/src/HelHUG/Prologue.hs)
 
 How to encode "deeper" PL?
 
@@ -178,8 +178,8 @@ How to encode "deeper" PL?
 ## Part 1: Demo cont.
 
 - Our approach: `PL (n :: Nat)`, where `n` tells how deep we can recurse into the structure.
-- [Part1.hs](#) has the original version
-- [Part1b.hs](#) is cleened up and uses `DataKinds`
+- [Part1.hs](https://github.com/phadej/helhug-types/blob/master/src/HelHUG/Part1.hs) has the original version
+- [Part1b.hs](https://github.com/phadej/helhug-types/blob/master/src/HelHUG/Part1b.hs) is cleened up and uses `DataKinds`
 
 ```hs
 data PL n = PL
@@ -320,7 +320,7 @@ data we would like to unwrap.
 
 ## Part 3: Code lines
 
-Code sec. | No HList | No HList with wrap | HList   | HList with wrap
+Code sec. | No HList | No HList with wrap | [HList](https://github.com/phadej/helhug-types/blob/master/src/HelHUG/Part3.hs) | [HList with wrap](https://github.com/phadej/helhug-types/blob/master/src/HelHUG/Part3b.hs)
 ----------|----------|--------------------|---------|-------------------
 Library   | 24       | exercise          | 89      | 105
 User      | 31 (23)  | exercise          | 35 (19) | 36 (20)
